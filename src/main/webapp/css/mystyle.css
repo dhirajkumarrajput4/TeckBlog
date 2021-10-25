@@ -1,0 +1,14 @@
+body{
+
+}
+
+.primary-background{
+    background: #2196f3!important;
+}
+
+/*for zik zak*/ 
+
+.banner-background{
+  clip-path: polygon(0 0, 100% 0, 100% 30%, 100% 100%, 71% 96%, 31% 100%, 0 92%, 0% 30%);
+}
+
